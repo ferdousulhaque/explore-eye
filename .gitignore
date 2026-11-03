@@ -3,3 +3,4 @@ scrapper/.venv
 .venv
 offers_new.json
 .vscode
+.DS_Store
